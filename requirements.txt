@@ -1,6 +1,6 @@
-streamlit==1.40.0
-vectorbt==0.22.0
-numpy==1.22.4
+streamlit
+vectorbt
+numpy
 pandas
 yfinance
 pandas_ta
